@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AlHelal_Store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AlHelal_Store.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\ekko-lightbox.css",
+      "PackagePath": "staticwebassets\\css\\ekko-lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\octin_sports_rg.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\0002.jpeg",
+      "PackagePath": "staticwebassets\\images\\0002.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\0009.jpeg",
+      "PackagePath": "staticwebassets\\images\\0009.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\0010.jpeg",
+      "PackagePath": "staticwebassets\\images\\0010.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\0011.jpeg",
+      "PackagePath": "staticwebassets\\images\\0011.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\0012.jpeg",
+      "PackagePath": "staticwebassets\\images\\0012.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\0013.jpeg",
+      "PackagePath": "staticwebassets\\images\\0013.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\0014.jpg",
+      "PackagePath": "staticwebassets\\images\\0014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\0100.jpeg",
+      "PackagePath": "staticwebassets\\images\\0100.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\0102.jpg",
+      "PackagePath": "staticwebassets\\images\\0102.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\client.jpg",
+      "PackagePath": "staticwebassets\\images\\client.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\js\\ekko-lightbox.min.js",
+      "PackagePath": "staticwebassets\\js\\ekko-lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\OneDrive\\Desktop\\AlHelal_Store\\AlHelal_Store\\AlHelal_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AlHelal_Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AlHelal_Store.props",
+      "PackagePath": "build\\AlHelal_Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AlHelal_Store.props",
+      "PackagePath": "buildMultiTargeting\\AlHelal_Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AlHelal_Store.props",
+      "PackagePath": "buildTransitive\\AlHelal_Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
